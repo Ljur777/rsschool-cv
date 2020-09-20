@@ -1,0 +1,19 @@
+.body {
+  background-color: #00000054;
+ 
+}
+.wrapper {
+    background-color: #f0f0f0;
+    
+}
+
+.sidebar {
+    background: #1e2939;
+    position: absolute;
+}
+.me {
+    position: relative;
+    display: flex;
+    margin: auto;
+    /*margin-right: auto;*/  
+  }
