@@ -1,15 +1,15 @@
 #Liudmyla Hryhorovych
-=======
 
-! [ Foto ] ( img/2.jpg "Foto" )
+
+! [ Foto ] ( 2.jpg "Foto" )
 
 ###Contacts
------------
+
 Tel: +38(093)408-00-68  
 E: grygorovychliuda@gmail.com  
 
 ##Tech Skills
------------
+
 *Robotics
 *HTML
 *CSS
@@ -19,7 +19,7 @@ E: grygorovychliuda@gmail.com
 *Scratch
 
 ##Soft Skills
------------
+
 *Goal-oriented
 *Conducting negotiation processes
 *Creativity
@@ -35,7 +35,7 @@ Projects
 Work Experience
 -----------
 
-**Teacher | Robocode**
+**Teacher|Robocode**
 
 February 2020 - up to now | Ukraine
 Robotics
