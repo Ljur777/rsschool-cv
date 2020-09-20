@@ -1,19 +1,63 @@
 .body {
-  background-color: #00000054;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
  
 }
 .wrapper {
     background-color: #f0f0f0;
-    
+    display: flex;
 }
 
 .sidebar {
     background: #1e2939;
     position: absolute;
+    height: 100;
+    color: antiquewhite;
 }
+
 .me {
     position: relative;
-    display: flex;
-    margin: auto;
-    /*margin-right: auto;*/  
+    color: darkolivegreen;
+    margin-left: auto;
+    margin-right: auto; 
+    height: auto;
   }
+.contacts {
+width: 400px;
+height: auto;
+padding: 40px;
+line-height: 40px;
+box-sizing: border-box;
+margin-top: 10px;
+}
+.tech-skills {
+    width: 400px;
+    height: auto;
+    padding: 30px;
+    
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+.soft-skills {
+    width: 400px;
+    height: auto;
+    padding: 30px;
+    
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+.tech-skills_tit {
+    font-size: 30px;
+    font-weight: 400;
+}
+.skill_item {
+    color: #595959;
+font-family: 'Montserrat', sans-serif; 
+font-size: 14px;
+font-weight: 400px;
+line-height: 24px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
